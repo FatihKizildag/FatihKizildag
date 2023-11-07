@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Developing
 - 🦾 I've specially curiosity to Cyber Security
 - 💞️ I’m looking to collaborate on whatever improve me
-- 📫 How to reach me fetiih.48@gmail.com
+- 📫 How to reach me kizildagfatihh@gmail.com
 
 <!---
 FatihKizildag/FatihKizildag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
